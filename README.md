@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0594-longest-harmonious-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
