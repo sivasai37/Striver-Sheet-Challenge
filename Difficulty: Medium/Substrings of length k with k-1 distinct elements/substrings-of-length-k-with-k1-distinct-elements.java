@@ -1,27 +1,29 @@
 class Solution {
     public int substrCount(String s, int k) {
-        // code here
-        HashMap<Character, Integer> map= new HashMap<>();
-        int n= s.length();
-        int cnt=0;
-        
-        for(int i=0; i<n; i++){
-            char ch=s.charAt(i);
-            if(i > k-1){
-                if(map.size()==k-1){
-                    cnt++;
+        HashMap<Character, Integer> hm = new HashMap<>();
+        int count = 0;
+        int l = 0, n = s.length();
+
+        for (int r = 0; r < n; r++) {
+            char rightChar = s.charAt(r);
+            hm.put(rightChar, hm.getOrDefault(rightChar, 0) + 1);
+
+            // Window of length k
+            if (r - l + 1 == k) {
+                if (hm.size() == k - 1) {
+                    count++;
                 }
-                char lc= s.charAt(i-k);
-                map.put(lc, map.get(lc)-1);
-                if(map.get(lc)==0){
-                    map.remove(lc);
+
+                // Slide the window
+                char leftChar = s.charAt(l);
+                hm.put(leftChar, hm.get(leftChar) - 1);
+                if (hm.get(leftChar) == 0) {
+                    hm.remove(leftChar);
                 }
+                l++;
             }
-            map.put(ch, map.getOrDefault(ch, 0)+1);
         }
-        if(map.size()==k-1){
-            cnt++;
-        }
-        return cnt;
+
+        return count;
     }
 }
