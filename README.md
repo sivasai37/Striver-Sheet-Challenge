@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0035-search-insert-position) |
 | [0594-longest-harmonious-subsequence](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
@@ -57,12 +58,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0854-making-a-large-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0854-making-a-large-island) |
 ## Union Find
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0854-making-a-large-island) |
+## Matrix
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0854-making-a-large-island) |
 <!---LeetCode Topics End-->
