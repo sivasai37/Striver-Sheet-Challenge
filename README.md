@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0721-accounts-merge) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,8 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Matrix
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0854-making-a-large-island) |
+## Graph
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/sivasai37/Striver-Sheet-Challenge/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
